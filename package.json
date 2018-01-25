@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Czarina-Kong/constructor-hangman#readme",
   "dependencies": {
     "inquirer": "^5.0.1",
+    "is-letter": "^1.1.1",
     "prompt": "^1.0.0"
   }
 }
