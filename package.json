@@ -1,0 +1,23 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Czarina-Kong/constructor-hangman.git"
+  },
+  "author": "czarina kong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Czarina-Kong/constructor-hangman/issues"
+  },
+  "homepage": "https://github.com/Czarina-Kong/constructor-hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "prompt": "^1.0.0"
+  }
+}
